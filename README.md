@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=250&section=header&text=Welcome%20to%20My%20Digital%20Workspace&fontSize=50&animation=glinting&fontAlignY=35&desc=System%20Architecture%20|%20Embedded%20Hardware%20|%20Full-Stack&descAlignY=55&descAlign=62" width="100%" />
+</p>
 
-<!--
-**Roshen-Reji/Roshen-Reji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- DYNAMIC TYPING SUBHEADER -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Initializing+User+Profile...;Load+Modules:+Node.js,+Flutter,+ESP32...;Status:+Compiling+Next-Gen+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 System Variables: `about_me.yml`
+
+```yaml
+---
+user:
+  name: "Roshen Reji Karivelil"
+  status: "Engineering Student @ KTU"
+  current_mission: "Webmaster @ IEEE SB CEK 2026"
+
+focus_scenarios:
+  software:
+    - "full-stack applications"
+    - "Building cross-platform mobile UI/UX with Dart"
+    - "Designing normalized SQL database schemas"
+    - "Data-Engineering"
+  hardware:
+    - "Worked on ESP32-S3 Microcontrollers"
+    - "Simulating digital sensors and embedded logic"
+---
