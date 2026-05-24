@@ -23,11 +23,10 @@ user:
 
 focus_scenarios:
   software:
-    - "full-stack applications"
+    - "Architecting scalable full-stack applications"
     - "Building cross-platform mobile UI/UX with Dart"
     - "Designing normalized SQL database schemas"
-    - "Data-Engineering"
   hardware:
-    - "Worked on ESP32-S3 Microcontrollers"
+    - "Tinkering with ESP32-S3 Microcontrollers"
     - "Simulating digital sensors and embedded logic"
 ---
